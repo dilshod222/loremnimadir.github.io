@@ -1,0 +1,110 @@
+body main section#subjects .container .dashTitle {
+  margin-bottom: 40px; }
+  body main section#subjects .container .dashTitle p {
+    font-size: 25px;
+    font-family: "Yu Gothic UI", sans-serif;
+    color: darkorange; }
+body main section#subjects .container .row .col-lg-4 .card {
+  border-radius: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 6px;
+  box-shadow: 0 0 10px #5a6268; }
+  body main section#subjects .container .row .col-lg-4 .card .card-header {
+    padding: 18px; }
+    body main section#subjects .container .row .col-lg-4 .card .card-header h5 {
+      color: #2F5597; }
+  body main section#subjects .container .row .col-lg-4 .card .card-body {
+    background-color: #DEEBF7;
+    border-radius: 17px; }
+    body main section#subjects .container .row .col-lg-4 .card .card-body .row .col-7 {
+      text-align: right; }
+      body main section#subjects .container .row .col-lg-4 .card .card-body .row .col-7 strong {
+        font-size: 13px;
+        color: grey; }
+    body main section#subjects .container .row .col-lg-4 .card .card-body .row .col-5 {
+      padding-right: 0; }
+      body main section#subjects .container .row .col-lg-4 .card .card-body .row .col-5 span {
+        font-size: 13px;
+        font-weight: bolder;
+        color: #2E75B6; }
+    body main section#subjects .container .row .col-lg-4 .card .card-body .col-md-9 {
+      text-align: center; }
+      body main section#subjects .container .row .col-lg-4 .card .card-body .col-md-9 strong {
+        color: grey; }
+    body main section#subjects .container .row .col-lg-4 .card .card-body .col-md-3 strong {
+      color: #2E75B6;
+      font-weight: 700; }
+body main section#subjects .container .row .col-lg-4 .card-footer button {
+  border-radius: 8px;
+  box-shadow: none;
+  font-family: Arial, sans-serif; }
+  body main section#subjects .container .row .col-lg-4 .card-footer button:first-child {
+    font-size: 15px;
+    font-weight: bolder; }
+  body main section#subjects .container .row .col-lg-4 .card-footer button:last-child {
+    background-color: #A0C0E5;
+    color: #000;
+    font-size: 13px; }
+    body main section#subjects .container .row .col-lg-4 .card-footer button:last-child:hover {
+      background-color: royalblue;
+      color: white; }
+body main section#lastQuiz .container .lastQuizTitle {
+  margin-bottom: 40px; }
+  body main section#lastQuiz .container .lastQuizTitle p {
+    font-size: 25px;
+    color: darkorange; }
+body main section#lastQuiz .row .col-lg-4 .card {
+  border-radius: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 6px;
+  box-shadow: 0 0 10px #5a6268; }
+  body main section#lastQuiz .row .col-lg-4 .card .card-header {
+    padding: 18px; }
+    body main section#lastQuiz .row .col-lg-4 .card .card-header h5 {
+      color: #2F5597; }
+    body main section#lastQuiz .row .col-lg-4 .card .card-header strong {
+      color: #2F5597;
+      font-size: 14px; }
+  body main section#lastQuiz .row .col-lg-4 .card .card-body {
+    background-color: #DEEBF7;
+    border-radius: 17px; }
+    body main section#lastQuiz .row .col-lg-4 .card .card-body .row .col-7 {
+      text-align: right; }
+      body main section#lastQuiz .row .col-lg-4 .card .card-body .row .col-7 strong {
+        font-size: 13px;
+        color: grey; }
+    body main section#lastQuiz .row .col-lg-4 .card .card-body .row .col-5 {
+      padding-right: 0; }
+      body main section#lastQuiz .row .col-lg-4 .card .card-body .row .col-5 span {
+        font-size: 13px;
+        font-weight: bolder;
+        color: #2E75B6; }
+    body main section#lastQuiz .row .col-lg-4 .card .card-body .col-md-9 {
+      text-align: center; }
+      body main section#lastQuiz .row .col-lg-4 .card .card-body .col-md-9 strong {
+        color: grey; }
+    body main section#lastQuiz .row .col-lg-4 .card .card-body .col-md-3 strong {
+      color: #2E75B6;
+      font-weight: 700; }
+body main section#lastQuiz .row .col-lg-4 .card-footer {
+  background-color: #5a6268; }
+  body main section#lastQuiz .row .col-lg-4 .card-footer .btn.btn-conitue {
+    border-radius: 8px;
+    box-shadow: none;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600; }
+  body main section#lastQuiz .row .col-lg-4 .card-footer .btn.btn-errors {
+    border-radius: 8px;
+    box-shadow: none;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #6c757d;
+    color: white; }
+    body main section#lastQuiz .row .col-lg-4 .card-footer .btn.btn-errors:hover {
+      background-color: #5a6268; }
+
+/*# sourceMappingURL=main.css.map */
